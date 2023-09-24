@@ -30,15 +30,21 @@ This project uses a dataset from Kaggle to predict house prices based on various
 
 ![App Screenshot](https://github.com/Hiteshydv001/Price_predict_House/blob/main/Screenshot%202023-09-23%20081847.png)
 
+
 ![App Screenshot](https://github.com/Hiteshydv001/Price_predict_House/blob/main/Screenshot%202023-09-24%20102622.png?raw=true)
+
 
 ![App Screenshot](https://github.com/Hiteshydv001/Price_predict_House/blob/main/Screenshot%202023-09-24%20102600.png?raw=true)
 
+
 ![App Screenshot](https://github.com/Hiteshydv001/Price_predict_House/blob/main/download%20(2).png?raw=true)
+
 
 ![App Screenshot](https://github.com/Hiteshydv001/Price_predict_House/blob/main/download.png?raw=true)
 
+
 ![App Screenshot](https://github.com/Hiteshydv001/Price_predict_House/blob/main/download%20(1).png?raw=true)
+
 
 ![App Screenshot](https://github.com/Hiteshydv001/Price_predict_House/blob/main/Screenshot%202023-09-24%20102520.png?raw=true)
 
@@ -58,6 +64,6 @@ Insert gif or link to demo
 
 ## 🔗 Links
 ## let's connect
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hitesh-kumar-4b2735252/)
 
 
