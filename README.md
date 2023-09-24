@@ -29,12 +29,19 @@ This project uses a dataset from Kaggle to predict house prices based on various
 ## Screenshots
 
 ![App Screenshot](https://github.com/Hiteshydv001/Price_predict_House/blob/main/Screenshot%202023-09-23%20081847.png)
+
 ![App Screenshot](https://github.com/Hiteshydv001/Price_predict_House/blob/main/Screenshot%202023-09-24%20102622.png?raw=true)
+
 ![App Screenshot](https://github.com/Hiteshydv001/Price_predict_House/blob/main/Screenshot%202023-09-24%20102600.png?raw=true)
+
 ![App Screenshot](https://github.com/Hiteshydv001/Price_predict_House/blob/main/download%20(2).png?raw=true)
+
 ![App Screenshot](https://github.com/Hiteshydv001/Price_predict_House/blob/main/download.png?raw=true)
-![App Screenshot](https://github.com/Hiteshydv001/Price_predict_House/blob/main/Screenshot%202023-09-24%20102520.png?raw=true)
+
 ![App Screenshot](https://github.com/Hiteshydv001/Price_predict_House/blob/main/download%20(1).png?raw=true)
+
+![App Screenshot](https://github.com/Hiteshydv001/Price_predict_House/blob/main/Screenshot%202023-09-24%20102520.png?raw=true)
+
 
 
 ## Tech Stack
