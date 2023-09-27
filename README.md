@@ -59,8 +59,7 @@ This project uses a dataset from Kaggle to predict house prices based on various
 
 ## Demo
 
-ffmpeg -i input.mp4 -vf "crop=640:480:0:0" output.mp4
-ffmpeg -i input.mp4 -vf "scale=1280:720" output.mp4
+ffmpeg -i input.mp4 -vf "crop=440:280:0:0" output.mp4
 ![Animated GIF](https://github.com/Hiteshydv001/Price_predict_House/blob/main/Untitled.gif)
 
 
