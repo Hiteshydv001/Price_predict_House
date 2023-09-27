@@ -59,7 +59,8 @@ This project uses a dataset from Kaggle to predict house prices based on various
 
 ## Demo
 
-https://github.com/Hiteshydv001/Price_predict_House/blob/main/Untitled.gif
+![Animated GIF](https://github.com/Hiteshydv001/Price_predict_House/blob/main/Untitled.gif)
+
 
 
 ## 🔗 Links
